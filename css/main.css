@@ -1,0 +1,8 @@
+:root {
+    --dimen-radius-max: 1px * infinity;
+    --dimen-radius-ellipse: 50%;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
